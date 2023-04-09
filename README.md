@@ -1,6 +1,6 @@
 # Java-Week3-ToDo-List
 
-Author: Benson Gathu
+Author: Benson Gathu W
 
 Official repo for the "To Do List" project using Java, Spark, Handlebars etc for week 3 of java unit.
 
